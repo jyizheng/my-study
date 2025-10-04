@@ -1,4 +1,4 @@
-# Record everything I leart daily
+# Record everything I learn daily
 
 
 ## AI Stuff
